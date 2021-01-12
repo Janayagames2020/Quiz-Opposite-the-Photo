@@ -1,0 +1,1589 @@
+{
+    "tasksData": [
+        {
+            "name": "Start",
+            "localizedName": "Başlamak",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "yukarıda",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "kenar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "ilkbahar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "savaş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "hayat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "gülmek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "döşeme",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "beyaz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "sağ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "korkunç",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "tehlikeli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "başlangıç",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "nazik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "benzer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "parlak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "bulmuş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "mutlu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "atmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "ısı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "keskin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "saldırı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "pek az",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "zekî",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "uyumak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "doğal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "yıkmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "sakin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "küçük",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "giriş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "ucuz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "dolu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "sığ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "cesaret",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "müsaade",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "kalkış",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "dikkatli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "ölüm",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "korkak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "hafif",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "vadi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "dışarda",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "genç",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "en iyi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "Kuzey",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "ateş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "demokrasi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "bulutlu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "dar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "süratli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "modern",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "Şeytan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "gündüz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "sağlıklı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "uzun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "kiler",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "uzak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "sonbahar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "şanssız",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "altta",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "zayıf",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "tamam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "kapatmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "aşırı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "durmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "boşanma",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "güvenli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "yoksul",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "kuru",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "tatlı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "basit",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "sessiz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "güzel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "kaba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "soğuk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "önde",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "sağ",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "artırmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "iyimser",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "temiz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "sahici",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "düşman",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "durmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "karanlık",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "bozuk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "harcamak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "gerçek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "nemli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "boş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "korkutucu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "yalnız",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "doğu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "kara",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "güçlü",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "yaz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "yanıtlamak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "görünür",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "fısıldamak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "doğru",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "genel af",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "kaybeden",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "evcil",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "buz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "olumsuz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "kısa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "aktif",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "yollamak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "Kardeşler",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "ahmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "yavaş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "geniş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "yazmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "hafızaya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "büyük",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "ağır",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "köy",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "görme",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "dişi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "batmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "mümkün",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "nefret",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "geçen",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "Uyanık",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "dev",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "kara",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "barış",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "minimum",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "zayıf",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "vahşî",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "tutmak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "insanî",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "sağlıklı",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "ekşi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "çiçeklenmek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "hür",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "tembel",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "öğrenmek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "acıkmış",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "gerçek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "yeni",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "güneş",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "alçak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "inşa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "çirkin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "azalma",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "yatay",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "mücrim",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "Merhaba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "silmek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "adam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "kız kardeşler",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "Oyna"
+        },
+        {
+            "key": 1,
+            "value": "bilgi"
+        },
+        {
+            "key": 2,
+            "value": "epeyce"
+        },
+        {
+            "key": 3,
+            "value": "geri"
+        },
+        {
+            "key": 4,
+            "value": "Bazı resim bulmacalarını çözmeye hazır olun! Sıkışmak? Farklı ipuçları kullanın! Görevleri tamamlayarak veya kısa reklamları izleyerek para kazanın! İyi eğlenceler!"
+        },
+        {
+            "key": 5,
+            "value": "kilitli"
+        },
+        {
+            "key": 6,
+            "value": "bir harf Ortaya"
+        },
+        {
+            "key": 7,
+            "value": "Harfleri kaldır"
+        },
+        {
+            "key": 8,
+            "value": "Cevap alın"
+        },
+        {
+            "key": 9,
+            "value": "Para kazanın"
+        },
+        {
+            "key": 10,
+            "value": "reklamı izle"
+        },
+        {
+            "key": 11,
+            "value": "Para için satın al"
+        },
+        {
+            "key": 12,
+            "value": "devam et"
+        },
+        {
+            "key": 13,
+            "value": "ana menü"
+        },
+        {
+            "key": 14,
+            "value": "Seviye tamamlandı!"
+        },
+        {
+            "key": 15,
+            "value": "Oyunu beğendiyseniz, lütfen Google Play'de oylayın!"
+        },
+        {
+            "key": 16,
+            "value": "oran"
+        },
+        {
+            "key": 18,
+            "value": "sonra"
+        },
+        {
+            "key": 17,
+            "value": "asla"
+        },
+        {
+            "key": 19,
+            "value": "Veri toplama izni"
+        },
+        {
+            "key": 20,
+            "value": "Kişiselleştirilmiş reklamlar"
+        },
+        {
+            "key": 21,
+            "value": "Reklam ağlarının toplanan verileri kullanmasına ve kişiselleştirilmiş reklamlar göstermesine izin verin"
+        },
+        {
+            "key": 22,
+            "value": "Evet"
+        },
+        {
+            "key": 23,
+            "value": "Hayır"
+        },
+        {
+            "key": 24,
+            "value": "Görünüşe göre daha iyi bir ilerleme kaydetmişsin!"
+        },
+        {
+            "key": 25,
+            "value": "Yüklemek ister misin?"
+        },
+        {
+            "key": 26,
+            "value": "Selam! Sadece size haber vermek için, oyunumuzu geliştirmek için sizin izninizle oyun ve cihaz verilerinizi kullanıyoruz!"
+        },
+        {
+            "key": 27,
+            "value": "İlgi alanlarınıza uyan alakalı reklamları size sunmamızı ister misiniz?"
+        },
+        {
+            "key": 28,
+            "value": "onaylamak"
+        },
+        {
+            "key": 29,
+            "value": "daha fazla bilgi edin"
+        },
+        {
+            "key": 30,
+            "value": "Yanlış cevabı kaldırın"
+        },
+        {
+            "key": 31,
+            "value": "İki yanıtı kaldır"
+        },
+        {
+            "key": 32,
+            "value": "Hata yapma şansı"
+        },
+        {
+            "key": 33,
+            "value": "Lütfen seviyeyi tamamlamama yardım edin!"
+        },
+        {
+            "key": 34,
+            "value": "Arkadaşlardan yardım"
+        },
+        {
+            "key": 35,
+            "value": "Arkadaşlarına sor"
+        },
+        {
+            "key": 36,
+            "value": "bahis"
+        },
+        {
+            "key": 37,
+            "value": "Sıkışırsanız ipuçlarını kullanın!"
+        },
+        {
+            "key": 38,
+            "value": "Temizlemek için harfe dokunun. Tüm harfleri temizlemek için kaydırın."
+        },
+        {
+            "key": 39,
+            "value": "Görüntüyü ortaya çıkarmak için filmi kazıyın!"
+        },
+        {
+            "key": 40,
+            "value": "Görüntüyü daha net hale getirmek için buna dokunun. Altın gerektirir!"
+        },
+        {
+            "key": 41,
+            "value": "Daha net hale getirmek için resme dokunun. Altın gerektirir!"
+        },
+        {
+            "key": 42,
+            "value": "Nişan almaya başlamak için buna dokunun. Çekim yapmak için ikinci kez dokunun. Altın gerektirir!"
+        },
+        {
+            "key": 43,
+            "value": "Nişan almaya başlamak için alana dokunun. Çekim yapmak için ikinci kez dokunun. Altın gerektirir!"
+        },
+        {
+            "key": 44,
+            "value": "Görev hakkında faydalı bilgiler almak için dokunun!"
+        },
+        {
+            "key": 45,
+            "value": "Bu görev ne kadar zor? Doğru bahis yapın!"
+        },
+        {
+            "key": 46,
+            "value": "daha fazla oyun"
+        },
+        {
+            "key": 47,
+            "value": "yeniden dene"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        122,
+        231,
+        99,
+        118,
+        98,
+        110,
+        109,
+        97,
+        115,
+        100,
+        102,
+        103,
+        104,
+        106,
+        107,
+        108,
+        287,
+        246,
+        101,
+        114,
+        116,
+        121,
+        117,
+        105,
+        111,
+        305,
+        351,
+        252,
+        112
+    ]
+}

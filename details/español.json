@@ -1,0 +1,1592 @@
+{
+    "tasksData": [
+        {
+            "name": "Start",
+            "localizedName": "Comienzo",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "arriba",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "borde",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "primavera",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "guerra",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "vida",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "reírse",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "suelo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "blanco",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "derecho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "horrible",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "peligroso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "principio",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "bueno",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "parecido",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "brillante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "encontrar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "feliz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "tirar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "calor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "afilado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "atacar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "pocos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "listo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "dormir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "natural",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "destruir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "calma",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "pequeño",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "entrada",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "barato",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "lleno",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "poco profundo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "valentía",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "permitir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "salida",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "cuidadoso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "muerte",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "cobarde",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "ligero",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "valle",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "fuera de",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "joven",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "bien",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "norte",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "fuego",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "democracia",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "nublado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "ajustado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "veloz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "moderno",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "diablo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "día",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "sano",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "alto",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "sótano",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "lejos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "otoño",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "mala suerte",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "debajo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "delgado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "aceptar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "cerrar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "abundante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "estar de pie",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "divorcio",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "seguro",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "pobre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "seco",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "dulce",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "sencillo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "callado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "precioso",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "áspero",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "frío",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "delante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "vivo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "aumentar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "optimista",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "limpio",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "auténtico",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "enemigo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "parar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "oscuro",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "estropeado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "gastar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "realidad",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "húmedo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "vacío",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "de miedo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "solo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "este",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "negro",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "fuerte",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "verano",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "contestar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "visible",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "susurrar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "correcto",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "amnistía",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "perdedor",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "domesticado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "hielo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "negativo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "bajo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "activo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "enviar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "hermanos",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "estúpido",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "lento",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "ancho",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "escribir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "guardar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "grande",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "pesado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "pueblo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "visión",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "femenino",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "hundir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "posible",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "odiar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "pasado",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "despierto",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "gigante",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "tierra",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "paz",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "mínimo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "débil",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "salvaje",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "atrapar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "humano",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "saludable",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "ácido",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "florecer",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "libre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "vago",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "aprender",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "hambre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "verdad",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "nuevo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "sol",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "bajo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "construir",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "feo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "disminución",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "horizontal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "delincuente",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "hola",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "borrar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "hombre",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "hermanas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "JUGAR"
+        },
+        {
+            "key": 1,
+            "value": "Info"
+        },
+        {
+            "key": 2,
+            "value": "Dejar"
+        },
+        {
+            "key": 3,
+            "value": "Atrás"
+        },
+        {
+            "key": 4,
+            "value": "¡Prepárate para resolver algunos rompecabezas de imágenes! ¿Quedarse atascado? ¡Usa diferentes pistas! ¡Gana monedas completando tareas o viendo anuncios cortos! ¡Que te diviertas!"
+        },
+        {
+            "key": 5,
+            "value": "bloquear"
+        },
+        {
+            "key": 6,
+            "value": "Mostrar una Letra"
+        },
+        {
+            "key": 7,
+            "value": "Quitar letras extras"
+        },
+        {
+            "key": 8,
+            "value": "Obtén una respuesta"
+        },
+        {
+            "key": 9,
+            "value": "Conseguir monedas"
+        },
+        {
+            "key": 10,
+            "value": "Ver Anuncio"
+        },
+        {
+            "key": 11,
+            "value": "Comprar por dinero real"
+        },
+        {
+            "key": 12,
+            "value": "Continuar"
+        },
+        {
+            "key": 13,
+            "value": "Menú Principal"
+        },
+        {
+            "key": 14,
+            "value": "¡Nivel completado!"
+        },
+        {
+            "key": 15,
+            "value": "Si te gustó el juego, ¡califícalo en Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "tarifa"
+        },
+        {
+            "key": 18,
+            "value": "más tarde"
+        },
+        {
+            "key": 17,
+            "value": "Nunca"
+        },
+        {
+            "key": 19,
+            "value": "Consentimiento de recopilación de datos"
+        },
+        {
+            "key": 20,
+            "value": "Anuncios personalizados"
+        },
+        {
+            "key": 21,
+            "value": "Permitir que las redes de AD usen datos recopilados y muestren anuncios personalizados"
+        },
+        {
+            "key": 22,
+            "value": "sí"
+        },
+        {
+            "key": 23,
+            "value": "no"
+        },
+        {
+            "key": 24,
+            "value": "¡Parece que tienes un mejor progreso!"
+        },
+        {
+            "key": 25,
+            "value": "¿Quieres cargarlo?"
+        },
+        {
+            "key": 26,
+            "value": "¡Hola! ¡Solo para hacerle saber, usamos su juego y los datos del dispositivo con su consentimiento para mejorar nuestro juego!"
+        },
+        {
+            "key": 27,
+            "value": "¿Desea que le presentemos publicidad relevante que se ajuste a sus intereses?"
+        },
+        {
+            "key": 28,
+            "value": "Confirmar"
+        },
+        {
+            "key": 29,
+            "value": "Aprende más"
+        },
+        {
+            "key": 30,
+            "value": "Eliminar la respuesta incorrecta"
+        },
+        {
+            "key": 31,
+            "value": "Eliminar dos respuestas"
+        },
+        {
+            "key": 32,
+            "value": "Posibilidad de error"
+        },
+        {
+            "key": 33,
+            "value": "¡Por favor, ayúdame a completar el nivel!"
+        },
+        {
+            "key": 34,
+            "value": "Ayuda de amigos"
+        },
+        {
+            "key": 35,
+            "value": "Pregunte a sus amigos"
+        },
+        {
+            "key": 36,
+            "value": "Apuesta "
+        },
+        {
+            "key": 37,
+            "value": "¡Usa pistas si te quedas atascado!"
+        },
+        {
+            "key": 38,
+            "value": "Toque la letra para borrarla. Desliza para borrar todas las letras."
+        },
+        {
+            "key": 39,
+            "value": "¡Raspe la película para revelar la imagen!"
+        },
+        {
+            "key": 40,
+            "value": "Toque esto para que la imagen sea más clara. Requiere oro!"
+        },
+        {
+            "key": 41,
+            "value": "Toque la imagen para que quede más clara. Requiere oro!"
+        },
+        {
+            "key": 42,
+            "value": "Toque esto para comenzar a apuntar. Toque la segunda vez para disparar. Requiere oro!"
+        },
+        {
+            "key": 43,
+            "value": "Toque el área para comenzar a apuntar. Toque la segunda vez para disparar. Requiere oro!"
+        },
+        {
+            "key": 44,
+            "value": "Toque para obtener información útil sobre la tarea."
+        },
+        {
+            "key": 45,
+            "value": "¿Qué tan difícil es esta tarea? ¡Haz una apuesta correcta!"
+        },
+        {
+            "key": 46,
+            "value": "más juegos"
+        },
+        {
+            "key": 47,
+            "value": "rever"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        122,
+        120,
+        99,
+        118,
+        98,
+        110,
+        109,
+        97,
+        115,
+        100,
+        102,
+        103,
+        104,
+        106,
+        107,
+        108,
+        113,
+        119,
+        101,
+        114,
+        116,
+        121,
+        117,
+        105,
+        111,
+        112,
+        241,
+        225,
+        250,
+        233,
+        243,
+        237
+    ]
+}

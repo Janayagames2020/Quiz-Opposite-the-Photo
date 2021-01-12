@@ -1,0 +1,1593 @@
+{
+    "tasksData": [
+        {
+            "name": "Start",
+            "localizedName": "Начало",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "наверху",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "кромка",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "весна",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "война",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "жизнь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "смеяться",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "пол",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "белый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "правый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "ужасный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "опасный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "начало",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "добрый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "похожий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "светлый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "нашел",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "счастливый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "бросать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "жара",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "острый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "нападение",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "немного",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "толковый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "спать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "природный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "разрушать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "спокойный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "маленький",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "вход",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "дешевый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "полный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "мелкий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "храбрость",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "разрешать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "отправление",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "осторожный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "смерть",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "трус",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "легкий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "долина",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "снаружи",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "молодой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "подходящий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "север",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "огонь",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "демократия",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "облачный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "облегающий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "быстрый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "современный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "дьявол",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "день",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "здоровый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "высокий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "подвал",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "далеко",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "осень",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "не повезло",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "внизу",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "худой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "соглашаться",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "закрывать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "обильный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "стоять",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "развод",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "безопасный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "бедный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "сухой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "сладкий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "простой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "тихий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "красивый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "жёсткая",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "холодный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "впереди",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "живой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "увеличивать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "оптимистический",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "чистый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "настоящий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "враг",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "прекращать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "темный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "сломанный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "тратить",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "действительность",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "влажный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "пустой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "жуткий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "одинокий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "восток",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "черный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "сильный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "лето",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "отвечать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "видимый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "шептать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "правильный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "амнистия",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "проигравший",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "ручной",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "лед",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "отрицательный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "невысокий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "энергичный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "посылать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "братья",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "глупый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "медленный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "широкий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "писать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "сохранять",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "большой",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "тяжелый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "деревня",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "зрение",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "женский",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "тонуть",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "возможный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "ненавидеть",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "последний",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "бодрствовать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "великан",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "суша",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "мир",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "минимальный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "слабый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "дикий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "ловить",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "человеческий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "полезный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "кислый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "в цвету",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "свободе",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "ленивый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "изучать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "голодный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "правда",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "новый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "солнце",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "низкий",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "строить",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "уродливый",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "уменьшение",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "горизонтальный",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "преступник",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "привет",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "стирать",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "мужчина",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "сестры",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "играть"
+        },
+        {
+            "key": 1,
+            "value": "Информация"
+        },
+        {
+            "key": 2,
+            "value": "выход"
+        },
+        {
+            "key": 3,
+            "value": "назад"
+        },
+        {
+            "key": 4,
+            "value": "Будьте готовы, чтобы решить некоторые головоломки картинки! Застрять? Используйте разные подсказки! Зарабатывайте монеты, выполняя задания или просматривая короткие объявления! Повеселись!"
+        },
+        {
+            "key": 5,
+            "value": "запертый"
+        },
+        {
+            "key": 6,
+            "value": "Раскрыть букву"
+        },
+        {
+            "key": 7,
+            "value": "Удалить письма"
+        },
+        {
+            "key": 8,
+            "value": "Получить ответ"
+        },
+        {
+            "key": 9,
+            "value": "Получить монеты"
+        },
+        {
+            "key": 10,
+            "value": "Смотреть объявление"
+        },
+        {
+            "key": 11,
+            "value": "Купить за деньги"
+        },
+        {
+            "key": 12,
+            "value": "Продолжать"
+        },
+        {
+            "key": 13,
+            "value": "главное меню"
+        },
+        {
+            "key": 14,
+            "value": "Yровень пройден"
+        },
+        {
+            "key": 15,
+            "value": "Если вам понравилась игра, пожалуйста, оцените ее в Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "показатель"
+        },
+        {
+            "key": 18,
+            "value": "позже"
+        },
+        {
+            "key": 17,
+            "value": "никогда"
+        },
+        {
+            "key": 19,
+            "value": "Согласие на сбор данных"
+        },
+        {
+            "key": 20,
+            "value": "Персонализированная реклама"
+        },
+        {
+            "key": 21,
+            "value": "Разрешить сетям объявлений использовать собранные данные и показывать персонализированные рекламные объявления"
+        },
+        {
+            "key": 22,
+            "value": "да"
+        },
+        {
+            "key": 23,
+            "value": "нет"
+        },
+        {
+            "key": 24,
+            "value": "Похоже, у вас лучше прогресс!"
+        },
+        {
+            "key": 25,
+            "value": "Вы хотите загрузить его?"
+        },
+        {
+            "key": 26,
+            "value": "Привет! Просто чтобы сообщить вам, мы используем ваш игровой процесс и данные устройства с вашего согласия, чтобы улучшить нашу игру!"
+        },
+        {
+            "key": 27,
+            "value": "Вы хотите, чтобы мы представили вам соответствующую рекламу, которая соответствует вашим интересам?"
+        },
+        {
+            "key": 28,
+            "value": "подтверждения"
+        },
+        {
+            "key": 29,
+            "value": "выучить больше"
+        },
+        {
+            "key": 30,
+            "value": "Удалить неправильный ответ"
+        },
+        {
+            "key": 31,
+            "value": "Удалить два ответа"
+        },
+        {
+            "key": 32,
+            "value": "Шанс ошибиться"
+        },
+        {
+            "key": 33,
+            "value": "Пожалуйста, помогите мне пройти уровень!"
+        },
+        {
+            "key": 34,
+            "value": "Помощь от друзей"
+        },
+        {
+            "key": 35,
+            "value": "Спроси друзей"
+        },
+        {
+            "key": 36,
+            "value": "Ставка"
+        },
+        {
+            "key": 37,
+            "value": "Используйте подсказки, если вы застряли!"
+        },
+        {
+            "key": 38,
+            "value": "Нажмите на письмо, чтобы очистить его. Проведите, чтобы очистить все буквы."
+        },
+        {
+            "key": 39,
+            "value": "Соскоблите пленку, чтобы раскрыть изображение!"
+        },
+        {
+            "key": 40,
+            "value": "Нажмите, чтобы сделать изображение более четким. Требуется золото!"
+        },
+        {
+            "key": 41,
+            "value": "Нажмите на изображение, чтобы сделать его более четким. Требуется золото!"
+        },
+        {
+            "key": 42,
+            "value": "Нажмите, чтобы начать прицеливаться. Нажмите во второй раз, чтобы стрелять. Требуется золото!"
+        },
+        {
+            "key": 43,
+            "value": "Нажмите на область, чтобы начать прицеливаться. Нажмите во второй раз, чтобы стрелять. Требуется золото!"
+        },
+        {
+            "key": 44,
+            "value": "Нажмите, чтобы получить полезную информацию о задаче!"
+        },
+        {
+            "key": 45,
+            "value": "Насколько сложна эта задача? Сделай правильную ставку!"
+        },
+        {
+            "key": 46,
+            "value": "больше игр"
+        },
+        {
+            "key": 47,
+            "value": "повторить попытку"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        1072,
+        1041,
+        1042,
+        1043,
+        1044,
+        1045,
+        1025,
+        1046,
+        1047,
+        1048,
+        1049,
+        1050,
+        1051,
+        1052,
+        1053,
+        1054,
+        1055,
+        1056,
+        1057,
+        1058,
+        1059,
+        1060,
+        1061,
+        1062,
+        1063,
+        1064,
+        1065,
+        1066,
+        1067,
+        1068,
+        1069,
+        1070,
+        1071
+    ]
+}

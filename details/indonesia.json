@@ -1,0 +1,1586 @@
+{
+    "tasksData": [
+        {
+            "name": "Start",
+            "localizedName": "Memulai",
+            "gameType": 0,
+            "useMixedTypes": false,
+            "orderNumber": 1,
+            "Levels": [
+                {
+                    "number": 1,
+                    "rightAnswer": "di atas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 2,
+                    "rightAnswer": "tepi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 3,
+                    "rightAnswer": "musim semi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 4,
+                    "rightAnswer": "perang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 5,
+                    "rightAnswer": "nyawa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 6,
+                    "rightAnswer": "tertawa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 7,
+                    "rightAnswer": "lantai",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 8,
+                    "rightAnswer": "putih",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 9,
+                    "rightAnswer": "kanan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 10,
+                    "rightAnswer": "buruk sekali",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 11,
+                    "rightAnswer": "berbahaya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 12,
+                    "rightAnswer": "awal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 13,
+                    "rightAnswer": "baik hati",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 14,
+                    "rightAnswer": "mirip",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 15,
+                    "rightAnswer": "benderang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 16,
+                    "rightAnswer": "Odnaleźć",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 17,
+                    "rightAnswer": "bahagia",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 18,
+                    "rightAnswer": "melemparkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 19,
+                    "rightAnswer": "panasnya",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 20,
+                    "rightAnswer": "tajam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 21,
+                    "rightAnswer": "menyerang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 22,
+                    "rightAnswer": "tidak banyak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 23,
+                    "rightAnswer": "cerdas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 24,
+                    "rightAnswer": "tidur",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 25,
+                    "rightAnswer": "alami",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 26,
+                    "rightAnswer": "menghancurkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 27,
+                    "rightAnswer": "tenang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 28,
+                    "rightAnswer": "kecil",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 29,
+                    "rightAnswer": "pintu masuk",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 30,
+                    "rightAnswer": "murah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 31,
+                    "rightAnswer": "penuh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 32,
+                    "rightAnswer": "dangkal",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 33,
+                    "rightAnswer": "keberanian",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 34,
+                    "rightAnswer": "memperbolehkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 35,
+                    "rightAnswer": "keberangkatan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 36,
+                    "rightAnswer": "hati hati",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 37,
+                    "rightAnswer": "kematian",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 38,
+                    "rightAnswer": "pengecut",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 39,
+                    "rightAnswer": "ringan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 40,
+                    "rightAnswer": "lembah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 41,
+                    "rightAnswer": "di luar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 42,
+                    "rightAnswer": "muda",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 43,
+                    "rightAnswer": "benar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 44,
+                    "rightAnswer": "utara",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 45,
+                    "rightAnswer": "api",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 46,
+                    "rightAnswer": "demokrasi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 47,
+                    "rightAnswer": "berawan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 48,
+                    "rightAnswer": "ketat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 49,
+                    "rightAnswer": "cepat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 50,
+                    "rightAnswer": "modern",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 51,
+                    "rightAnswer": "setan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 52,
+                    "rightAnswer": "siang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 53,
+                    "rightAnswer": "sehat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 54,
+                    "rightAnswer": "tinggi",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 55,
+                    "rightAnswer": "ruang bawah tanah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 56,
+                    "rightAnswer": "jauh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 57,
+                    "rightAnswer": "musim gugur",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 58,
+                    "rightAnswer": "malang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 59,
+                    "rightAnswer": "menuruni",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 60,
+                    "rightAnswer": "kurus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 61,
+                    "rightAnswer": "setuju",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 62,
+                    "rightAnswer": "menutup",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 63,
+                    "rightAnswer": "berlimpah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 64,
+                    "rightAnswer": "berdiri",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 65,
+                    "rightAnswer": "perceraian",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 66,
+                    "rightAnswer": "aman",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 67,
+                    "rightAnswer": "miskin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 68,
+                    "rightAnswer": "kering",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 69,
+                    "rightAnswer": "manis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 70,
+                    "rightAnswer": "mudah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 71,
+                    "rightAnswer": "diam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 72,
+                    "rightAnswer": "cantik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 73,
+                    "rightAnswer": "kasar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 74,
+                    "rightAnswer": "dingin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 75,
+                    "rightAnswer": "bagian depan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 76,
+                    "rightAnswer": "hidup",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 77,
+                    "rightAnswer": "peningkatan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 78,
+                    "rightAnswer": "penuh harap",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 79,
+                    "rightAnswer": "bersih",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 80,
+                    "rightAnswer": "asli",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 81,
+                    "rightAnswer": "musuh",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 82,
+                    "rightAnswer": "menghentikan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 83,
+                    "rightAnswer": "gelap",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 84,
+                    "rightAnswer": "rusak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 85,
+                    "rightAnswer": "membelanjakan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 86,
+                    "rightAnswer": "realitas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 87,
+                    "rightAnswer": "lembab",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 88,
+                    "rightAnswer": "kosong",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 89,
+                    "rightAnswer": "menakutkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 90,
+                    "rightAnswer": "sendirian",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 91,
+                    "rightAnswer": "timur",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 92,
+                    "rightAnswer": "hitam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 93,
+                    "rightAnswer": "kuat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 94,
+                    "rightAnswer": "musim panas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 95,
+                    "rightAnswer": "jawaban",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 96,
+                    "rightAnswer": "kelihatan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 97,
+                    "rightAnswer": "berbisik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 98,
+                    "rightAnswer": "betul",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 99,
+                    "rightAnswer": "pengampunan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 100,
+                    "rightAnswer": "orang kalah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 101,
+                    "rightAnswer": "jinak",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 102,
+                    "rightAnswer": "es",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 103,
+                    "rightAnswer": "negatif",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 104,
+                    "rightAnswer": "pendek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 105,
+                    "rightAnswer": "giat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 106,
+                    "rightAnswer": "mengirimkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 107,
+                    "rightAnswer": "kakak beradik",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 108,
+                    "rightAnswer": "tolol",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 109,
+                    "rightAnswer": "lambat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 110,
+                    "rightAnswer": "lebar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 111,
+                    "rightAnswer": "menulis",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 112,
+                    "rightAnswer": "menyimpan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 113,
+                    "rightAnswer": "besar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 114,
+                    "rightAnswer": "berat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 115,
+                    "rightAnswer": "desa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 116,
+                    "rightAnswer": "penglihatan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 117,
+                    "rightAnswer": "betina",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 118,
+                    "rightAnswer": "menenggelamkan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 119,
+                    "rightAnswer": "mungkin",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 120,
+                    "rightAnswer": "membenci",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 121,
+                    "rightAnswer": "masa lalu",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 122,
+                    "rightAnswer": "jaga",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 123,
+                    "rightAnswer": "raksasa",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 124,
+                    "rightAnswer": "daratan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 125,
+                    "rightAnswer": "damai",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 126,
+                    "rightAnswer": "paling sedikit",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 127,
+                    "rightAnswer": "lemah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 128,
+                    "rightAnswer": "liar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 129,
+                    "rightAnswer": "menangkap",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 130,
+                    "rightAnswer": "orang",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 131,
+                    "rightAnswer": "sehat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 132,
+                    "rightAnswer": "masam",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 133,
+                    "rightAnswer": "mekar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 134,
+                    "rightAnswer": "bebas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 135,
+                    "rightAnswer": "malas",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 136,
+                    "rightAnswer": "belajar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 137,
+                    "rightAnswer": "lapar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 138,
+                    "rightAnswer": "kebenaran",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 139,
+                    "rightAnswer": "baru",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 140,
+                    "rightAnswer": "matahari",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 141,
+                    "rightAnswer": "rendah",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 142,
+                    "rightAnswer": "membangun",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 143,
+                    "rightAnswer": "jelek",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 144,
+                    "rightAnswer": "penurunan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 145,
+                    "rightAnswer": "mendatar",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 146,
+                    "rightAnswer": "penjahat",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 147,
+                    "rightAnswer": "halo",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 148,
+                    "rightAnswer": "menghapus",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 149,
+                    "rightAnswer": "pria",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                },
+                {
+                    "number": 150,
+                    "rightAnswer": "saudara perempuan",
+                    "imageText": "",
+                    "imageDescription": "",
+                    "wrongAnswers": [],
+                    "gameType": 0,
+                    "cost": 10
+                }
+            ]
+        }
+    ],
+    "gameItems": [
+        {
+            "key": 0,
+            "value": "bermain"
+        },
+        {
+            "key": 1,
+            "value": "Info"
+        },
+        {
+            "key": 2,
+            "value": "berhenti"
+        },
+        {
+            "key": 3,
+            "value": "kembali"
+        },
+        {
+            "key": 4,
+            "value": "Bersiaplah untuk memecahkan beberapa teka-teki gambar! Terjebak? Gunakan petunjuk yang berbeda! Hasilkan koin dengan menyelesaikan tugas atau dengan menonton AD pendek! Selamat bersenang-senang!"
+        },
+        {
+            "key": 5,
+            "value": "terkunci"
+        },
+        {
+            "key": 6,
+            "value": "Singkapkan huruf"
+        },
+        {
+            "key": 7,
+            "value": "Hapus huruf"
+        },
+        {
+            "key": 8,
+            "value": "Dapatkan jawaban"
+        },
+        {
+            "key": 9,
+            "value": "Dapatkan koin"
+        },
+        {
+            "key": 10,
+            "value": "Menonton iklan"
+        },
+        {
+            "key": 11,
+            "value": "Beli untuk mendapatkan uang"
+        },
+        {
+            "key": 12,
+            "value": "terus"
+        },
+        {
+            "key": 13,
+            "value": "menu utama"
+        },
+        {
+            "key": 14,
+            "value": "Tingkat lengkap!"
+        },
+        {
+            "key": 15,
+            "value": "Jika Anda menyukai gim ini, beri peringkat di Google Play!"
+        },
+        {
+            "key": 16,
+            "value": "menilai"
+        },
+        {
+            "key": 18,
+            "value": "kemudian"
+        },
+        {
+            "key": 17,
+            "value": "tidak pernah"
+        },
+        {
+            "key": 19,
+            "value": "Persetujuan pengumpulan data"
+        },
+        {
+            "key": 20,
+            "value": "Iklan yang dipersonalisasi"
+        },
+        {
+            "key": 21,
+            "value": "Mengizinkan IKLAN jaringan untuk menggunakan data yang dikumpulkan dan menampilkan iklan yang dipersonalisasi"
+        },
+        {
+            "key": 22,
+            "value": "Iya"
+        },
+        {
+            "key": 23,
+            "value": "tidak"
+        },
+        {
+            "key": 24,
+            "value": "Sepertinya Anda memiliki kemajuan yang lebih baik!"
+        },
+        {
+            "key": 25,
+            "value": "Apakah Anda ingin memuatnya?"
+        },
+        {
+            "key": 26,
+            "value": "Halo yang disana! Sekadar memberi tahu Anda, kami menggunakan gameplay dan data perangkat Anda dengan persetujuan Anda untuk meningkatkan game kami!"
+        },
+        {
+            "key": 27,
+            "value": "Apakah Anda ingin kami menampilkan iklan relevan yang sesuai dengan minat Anda?"
+        },
+        {
+            "key": 28,
+            "value": "Konfirmasi"
+        },
+        {
+            "key": 29,
+            "value": "Belajarlah lagi"
+        },
+        {
+            "key": 30,
+            "value": "Hapus jawaban yang salah"
+        },
+        {
+            "key": 31,
+            "value": "Hapus dua jawaban"
+        },
+        {
+            "key": 32,
+            "value": "Kesempatan untuk melakukan kesalahan"
+        },
+        {
+            "key": 33,
+            "value": "Tolong, bantu saya untuk menyelesaikan level!"
+        },
+        {
+            "key": 34,
+            "value": "Bantuan dari teman"
+        },
+        {
+            "key": 35,
+            "value": "Meminta teman-teman"
+        },
+        {
+            "key": 36,
+            "value": "Bertaruh"
+        },
+        {
+            "key": 37,
+            "value": "Gunakan petunjuk jika Anda buntu!"
+        },
+        {
+            "key": 38,
+            "value": "Tap the letter to clear it. Swipe to clear all the letters."
+        },
+        {
+            "key": 39,
+            "value": "Ketuk surat itu untuk menghapusnya. Geser untuk menghapus semua huruf."
+        },
+        {
+            "key": 40,
+            "value": "Ketuk ini untuk membuat gambar lebih jelas. Membutuhkan emas!"
+        },
+        {
+            "key": 41,
+            "value": "Ketuk ini untuk membuat gambar lebih jelas. Membutuhkan emas!"
+        },
+        {
+            "key": 42,
+            "value": "Ketuk ini untuk mulai membidik. Ketuk kedua kalinya untuk menembak. Membutuhkan emas!"
+        },
+        {
+            "key": 43,
+            "value": "Ketuk area untuk mulai membidik. Ketuk kedua kalinya untuk menembak. Membutuhkan emas!"
+        },
+        {
+            "key": 44,
+            "value": "Ketuk untuk mendapatkan info berguna tentang tugas!"
+        },
+        {
+            "key": 45,
+            "value": "Seberapa sulit tugas ini? Buat taruhan yang tepat!"
+        },
+        {
+            "key": 46,
+            "value": "lebih banyak permainan"
+        },
+        {
+            "key": 47,
+            "value": "mencoba kembali"
+        }
+    ],
+    "subCategories": [],
+    "randomLetters": [
+        122,
+        120,
+        99,
+        118,
+        98,
+        110,
+        109,
+        97,
+        115,
+        100,
+        102,
+        103,
+        104,
+        106,
+        107,
+        108,
+        113,
+        119,
+        101,
+        114,
+        116,
+        121,
+        117,
+        105,
+        111,
+        112
+    ]
+}
