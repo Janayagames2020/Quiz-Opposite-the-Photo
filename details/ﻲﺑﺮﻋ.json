@@ -2,1359 +2,1359 @@
     "tasksData": [
         {
             "name": "Start",
-            "localizedName": "Start",
-            "gameType": 0,
+            "localizedName": "ﺃﺪﺑﺍ",
+            "gameType": 4,
             "useMixedTypes": false,
             "orderNumber": 1,
             "Levels": [
                 {
                     "number": 1,
-                    "rightAnswer": "up",
-                    "imageText": "",
+                    "rightAnswer": "قوف",
+                    "imageText": "ﻕﻮﻓ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 2,
-                    "rightAnswer": "EDGE",
-                    "imageText": "",
+                    "rightAnswer": "ةفاح",
+                    "imageText": "ﺔﻓﺎﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 3,
-                    "rightAnswer": "SPRING",
-                    "imageText": "",
+                    "rightAnswer": "عيبر",
+                    "imageText": "ﻊﻴﺑﺭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 4,
-                    "rightAnswer": "WAR",
-                    "imageText": "",
+                    "rightAnswer": "برح",
+                    "imageText": "ﺏﺮﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 5,
-                    "rightAnswer": "LIFE",
-                    "imageText": "",
+                    "rightAnswer": "ةايح",
+                    "imageText": "ﺓﺎﻴﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 6,
-                    "rightAnswer": "LAUGH",
-                    "imageText": "",
+                    "rightAnswer": "كحض",
+                    "imageText": "ﻚﺤﺿ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 7,
-                    "rightAnswer": "FLOOR",
-                    "imageText": "",
+                    "rightAnswer": "ضرأ",
+                    "imageText": "ﺽﺭﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 8,
-                    "rightAnswer": "WHITE",
-                    "imageText": "",
+                    "rightAnswer": "ضيبأ",
+                    "imageText": "ﺾﻴﺑﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 9,
-                    "rightAnswer": "RIGHT",
-                    "imageText": "",
+                    "rightAnswer": "نيمي",
+                    "imageText": "ﻦﻴﻤﻳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 10,
-                    "rightAnswer": "AWFUL",
-                    "imageText": "",
+                    "rightAnswer": "ءيس",
+                    "imageText": "ﺀﻲﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 11,
-                    "rightAnswer": "DANGEROUS",
-                    "imageText": "",
+                    "rightAnswer": "رطخ",
+                    "imageText": "ﺮﻄﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 12,
-                    "rightAnswer": "BEGINNING",
-                    "imageText": "",
+                    "rightAnswer": "ةيادب",
+                    "imageText": "ﺔﻳﺍﺪﺑ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 13,
-                    "rightAnswer": "GOOD",
-                    "imageText": "",
+                    "rightAnswer": "ديج",
+                    "imageText": "ﺪﻴﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 14,
-                    "rightAnswer": "ALIKE",
-                    "imageText": "",
+                    "rightAnswer": "هباشتم",
+                    "imageText": "ﻪﺑﺎﺸﺘﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 15,
-                    "rightAnswer": "BRIGHT",
-                    "imageText": "",
+                    "rightAnswer": "ءيضم",
+                    "imageText": "ﺀﻲﻀﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 16,
-                    "rightAnswer": "FOUND",
-                    "imageText": "",
+                    "rightAnswer": "دجو",
+                    "imageText": "ﺪﺟﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 17,
-                    "rightAnswer": "HAPPY",
-                    "imageText": "",
+                    "rightAnswer": "ديعس",
+                    "imageText": "ﺪﻴﻌﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 18,
-                    "rightAnswer": "THROW",
-                    "imageText": "",
+                    "rightAnswer": "ىقلأ",
+                    "imageText": "ﻰﻘﻟﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 19,
-                    "rightAnswer": "HEAT",
-                    "imageText": "",
+                    "rightAnswer": "ةرارح",
+                    "imageText": "ﺓﺭﺍﺮﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 20,
-                    "rightAnswer": "SHARP",
-                    "imageText": "",
+                    "rightAnswer": "داح",
+                    "imageText": "ﺩﺎﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 21,
-                    "rightAnswer": "ATTAcK",
-                    "imageText": "",
+                    "rightAnswer": "موجه",
+                    "imageText": "ﻡﻮﺠﻫ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 22,
-                    "rightAnswer": "FEW",
-                    "imageText": "",
+                    "rightAnswer": "ليلق",
+                    "imageText": "ﻞﻴﻠﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 23,
-                    "rightAnswer": "SMART",
-                    "imageText": "",
+                    "rightAnswer": "يكذ",
+                    "imageText": "ﻲﻛﺫ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 24,
-                    "rightAnswer": "SLEEP",
-                    "imageText": "",
+                    "rightAnswer": "مون",
+                    "imageText": "ﻡﻮﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 25,
-                    "rightAnswer": "NATURAL",
-                    "imageText": "",
+                    "rightAnswer": "يعيبط",
+                    "imageText": "ﻲﻌﻴﺒﻃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 26,
-                    "rightAnswer": "DESTROY",
-                    "imageText": "",
+                    "rightAnswer": "ريمدت",
+                    "imageText": "ﺮﻴﻣﺪﺗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 27,
-                    "rightAnswer": "CALM",
-                    "imageText": "",
+                    "rightAnswer": "ئداه",
+                    "imageText": "ﺉﺩﺎﻫ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 28,
-                    "rightAnswer": "SMALL",
-                    "imageText": "",
+                    "rightAnswer": "ريغص",
+                    "imageText": "ﺮﻴﻐﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 29,
-                    "rightAnswer": "ENTRANCE",
-                    "imageText": "",
+                    "rightAnswer": "لخدم",
+                    "imageText": "ﻞﺧﺪﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 30,
-                    "rightAnswer": "CHEAP",
-                    "imageText": "",
+                    "rightAnswer": "صيخر",
+                    "imageText": "ﺺﻴﺧﺭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 31,
-                    "rightAnswer": "FULL",
-                    "imageText": "",
+                    "rightAnswer": "لحض",
+                    "imageText": "ﻞﺤﺿ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 32,
-                    "rightAnswer": "SHALLOW",
-                    "imageText": "",
+                    "rightAnswer": "ةعاجش",
+                    "imageText": "ﺔﻋﺎﺠﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 33,
-                    "rightAnswer": "COURAGE",
-                    "imageText": "",
+                    "rightAnswer": "حومسم",
+                    "imageText": "ﺡﻮﻤﺴﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 34,
-                    "rightAnswer": "ALLOWED",
-                    "imageText": "",
+                    "rightAnswer": "ةرداغم",
+                    "imageText": "ﺓﺭﺩﺎﻐﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 35,
-                    "rightAnswer": "DEPARTURE",
-                    "imageText": "",
+                    "rightAnswer": "ةرداغم",
+                    "imageText": "ﺓﺭﺩﺎﻐﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 36,
-                    "rightAnswer": "CAREFUL",
-                    "imageText": "",
+                    "rightAnswer": "صيرح",
+                    "imageText": "ﺺﻳﺮﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 37,
-                    "rightAnswer": "DEATH",
-                    "imageText": "",
+                    "rightAnswer": "توم",
+                    "imageText": "ﺕﻮﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 38,
-                    "rightAnswer": "COWARD",
-                    "imageText": "",
+                    "rightAnswer": "نابج",
+                    "imageText": "ﻥﺎﺒﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 39,
-                    "rightAnswer": "LIGHT",
-                    "imageText": "",
+                    "rightAnswer": "فيفخ",
+                    "imageText": "ﻒﻴﻔﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 40,
-                    "rightAnswer": "valley",
-                    "imageText": "",
+                    "rightAnswer": "لهس",
+                    "imageText": "ﻞﻬﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 41,
-                    "rightAnswer": "OUTSIDE",
-                    "imageText": "",
+                    "rightAnswer": "جراخ",
+                    "imageText": "ﺝﺭﺎﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 42,
-                    "rightAnswer": "YOUNG",
-                    "imageText": "",
+                    "rightAnswer": "باش",
+                    "imageText": "ﺏﺎﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 43,
-                    "rightAnswer": "RIGHT",
-                    "imageText": "",
+                    "rightAnswer": "ميلس",
+                    "imageText": "ﻢﻴﻠﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 44,
-                    "rightAnswer": "NORTH",
-                    "imageText": "",
+                    "rightAnswer": "لامش",
+                    "imageText": "ﻝﺎﻤﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 45,
-                    "rightAnswer": "FIRE",
-                    "imageText": "",
+                    "rightAnswer": "ران",
+                    "imageText": "ﺭﺎﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 46,
-                    "rightAnswer": "DEMOCRACY",
-                    "imageText": "",
+                    "rightAnswer": "ةيطارقوميد",
+                    "imageText": "ﺔﻴﻃﺍﺮﻗﻮﻤﻳﺩ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 47,
-                    "rightAnswer": "CLOUDY",
-                    "imageText": "",
+                    "rightAnswer": "مئاغ",
+                    "imageText": "ﻢﺋﺎﻏ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 48,
-                    "rightAnswer": "TIGHT",
-                    "imageText": "",
+                    "rightAnswer": "قيض",
+                    "imageText": "ﻖﻴﺿ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 49,
-                    "rightAnswer": "FAST",
-                    "imageText": "",
+                    "rightAnswer": "عيرس",
+                    "imageText": "ﻊﻳﺮﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 50,
-                    "rightAnswer": "MODERN",
-                    "imageText": "",
+                    "rightAnswer": "ثيدح",
+                    "imageText": "ﺚﻳﺪﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 51,
-                    "rightAnswer": "DEVIL",
-                    "imageText": "",
+                    "rightAnswer": "ناطيش",
+                    "imageText": "ﻥﺎﻄﻴﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 52,
-                    "rightAnswer": "DAY",
-                    "imageText": "",
+                    "rightAnswer": "راهن",
+                    "imageText": "ﺭﺎﻬﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 53,
-                    "rightAnswer": "HEALTH",
-                    "imageText": "",
+                    "rightAnswer": "ىفاعم",
+                    "imageText": "ﻰﻓﺎﻌﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 54,
-                    "rightAnswer": "TALL",
-                    "imageText": "",
+                    "rightAnswer": "ليوط",
+                    "imageText": "ﻞﻳﻮﻃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 55,
-                    "rightAnswer": "CELLAR",
-                    "imageText": "",
+                    "rightAnswer": "وبق",
+                    "imageText": "ﻮﺒﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 56,
-                    "rightAnswer": "FAR",
-                    "imageText": "",
+                    "rightAnswer": "ديعب",
+                    "imageText": "ﺪﻴﻌﺑ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 57,
-                    "rightAnswer": "AUTUMN",
-                    "imageText": "",
+                    "rightAnswer": "فيرخ",
+                    "imageText": "ﻒﻳﺮﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 58,
-                    "rightAnswer": "UNLUCKY",
-                    "imageText": "",
+                    "rightAnswer": "سوحنم",
+                    "imageText": "ﺱﻮﺤﻨﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 59,
-                    "rightAnswer": "BELOW",
-                    "imageText": "",
+                    "rightAnswer": "لفسأ",
+                    "imageText": "ﻞﻔﺳﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 60,
-                    "rightAnswer": "THIN",
-                    "imageText": "",
+                    "rightAnswer": "فيحن",
+                    "imageText": "ﻒﻴﺤﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 61,
-                    "rightAnswer": "AGREE",
-                    "imageText": "",
+                    "rightAnswer": "قفاو",
+                    "imageText": "ﻖﻓﺍﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 62,
-                    "rightAnswer": "CLOSE",
-                    "imageText": "",
+                    "rightAnswer": "قلغم",
+                    "imageText": "ﻖﻠﻐﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 63,
-                    "rightAnswer": "ABUNDANT",
-                    "imageText": "",
+                    "rightAnswer": "ريثك",
+                    "imageText": "ﺮﻴﺜﻛ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 64,
-                    "rightAnswer": "STAND",
-                    "imageText": "",
+                    "rightAnswer": "فوقو",
+                    "imageText": "ﻑﻮﻗﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 65,
-                    "rightAnswer": "DIVORCE",
-                    "imageText": "",
+                    "rightAnswer": "قالط",
+                    "imageText": "ﻕﻼﻃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 66,
-                    "rightAnswer": "SAFE",
-                    "imageText": "",
+                    "rightAnswer": "نمآ",
+                    "imageText": "ﻦﻣﺁ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 67,
-                    "rightAnswer": "POOR",
-                    "imageText": "",
+                    "rightAnswer": "ريقف",
+                    "imageText": "ﺮﻴﻘﻓ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 68,
-                    "rightAnswer": "DRY",
-                    "imageText": "",
+                    "rightAnswer": "فاج",
+                    "imageText": "ﻑﺎﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 69,
-                    "rightAnswer": "SWEET",
-                    "imageText": "",
+                    "rightAnswer": "ولح",
+                    "imageText": "ﻮﻠﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 70,
-                    "rightAnswer": "SIMPLE",
-                    "imageText": "",
+                    "rightAnswer": "طيسب",
+                    "imageText": "ﻂﻴﺴﺑ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 71,
-                    "rightAnswer": "QUIET",
-                    "imageText": "",
+                    "rightAnswer": "تماص",
+                    "imageText": "ﺖﻣﺎﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 72,
-                    "rightAnswer": "BEAUTIFUL",
-                    "imageText": "",
+                    "rightAnswer": "ليمج",
+                    "imageText": "ﻞﻴﻤﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 73,
-                    "rightAnswer": "COARSE",
-                    "imageText": "",
+                    "rightAnswer": "نشخ",
+                    "imageText": "ﻦﺸﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 74,
-                    "rightAnswer": "COLD",
-                    "imageText": "",
+                    "rightAnswer": "دراب",
+                    "imageText": "ﺩﺭﺎﺑ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 75,
-                    "rightAnswer": "FRONT",
-                    "imageText": "",
+                    "rightAnswer": "ةهجاو",
+                    "imageText": "ﺔﻬﺟﺍﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 76,
-                    "rightAnswer": "ALIVE",
-                    "imageText": "",
+                    "rightAnswer": "شاع",
+                    "imageText": "ﺵﺎﻋ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 77,
-                    "rightAnswer": "INCREASE",
-                    "imageText": "",
+                    "rightAnswer": "دوعص",
+                    "imageText": "ﺩﻮﻌﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 78,
-                    "rightAnswer": "HOPEFUL",
-                    "imageText": "",
+                    "rightAnswer": "لئافتم",
+                    "imageText": "ﻞﺋﺎﻔﺘﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 79,
-                    "rightAnswer": "CLEAN",
-                    "imageText": "",
+                    "rightAnswer": "فيظن",
+                    "imageText": "ﻒﻴﻈﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 80,
-                    "rightAnswer": "REAL",
-                    "imageText": "",
+                    "rightAnswer": "يقيقح",
+                    "imageText": "ﻲﻘﻴﻘﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 81,
-                    "rightAnswer": "ENEMy",
-                    "imageText": "",
+                    "rightAnswer": "ودع",
+                    "imageText": "ﻭﺪﻋ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 82,
-                    "rightAnswer": "STOP",
-                    "imageText": "",
+                    "rightAnswer": "فقوت",
+                    "imageText": "ﻒﻗﻮﺗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 83,
-                    "rightAnswer": "DARK",
-                    "imageText": "",
+                    "rightAnswer": "مالظ",
+                    "imageText": "ﻡﻼﻇ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 84,
-                    "rightAnswer": "broken",
-                    "imageText": "",
+                    "rightAnswer": "بيرخت",
+                    "imageText": "ﺐﻳﺮﺨﺗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 85,
-                    "rightAnswer": "SPEND",
-                    "imageText": "",
+                    "rightAnswer": "قافنا",
+                    "imageText": "ﻕﺎﻔﻧﺍ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 86,
-                    "rightAnswer": "reality",
-                    "imageText": "",
+                    "rightAnswer": "يعقاو",
+                    "imageText": "ﻲﻌﻗﺍﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 87,
-                    "rightAnswer": "MOIST",
-                    "imageText": "",
+                    "rightAnswer": "بطر",
+                    "imageText": "ﺐﻃﺭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 88,
-                    "rightAnswer": "EMPTY",
-                    "imageText": "",
+                    "rightAnswer": "غراف",
+                    "imageText": "ﻍﺭﺎﻓ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 89,
-                    "rightAnswer": "SCARY",
-                    "imageText": "",
+                    "rightAnswer": "فيخم",
+                    "imageText": "ﻒﻴﺨﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 90,
-                    "rightAnswer": "alone",
-                    "imageText": "",
+                    "rightAnswer": "ديحو",
+                    "imageText": "ﺪﻴﺣﻭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 91,
-                    "rightAnswer": "EAST",
-                    "imageText": "",
+                    "rightAnswer": "قرش",
+                    "imageText": "ﻕﺮﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 92,
-                    "rightAnswer": "BLACK",
-                    "imageText": "",
+                    "rightAnswer": "دوسأ",
+                    "imageText": "ﺩﻮﺳﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 93,
-                    "rightAnswer": "STRONG",
-                    "imageText": "",
+                    "rightAnswer": "يوق",
+                    "imageText": "ﻱﻮﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 94,
-                    "rightAnswer": "SUMMER",
-                    "imageText": "",
+                    "rightAnswer": "فيص",
+                    "imageText": "ﻒﻴﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 95,
-                    "rightAnswer": "ANSWER",
-                    "imageText": "",
+                    "rightAnswer": "باوج",
+                    "imageText": "ﺏﺍﻮﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 96,
-                    "rightAnswer": "VISIBLE",
-                    "imageText": "",
+                    "rightAnswer": "يئرم",
+                    "imageText": "ﻲﺋﺮﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 97,
-                    "rightAnswer": "WHISPER",
-                    "imageText": "",
+                    "rightAnswer": "سمه",
+                    "imageText": "ﺲﻤﻫ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 98,
-                    "rightAnswer": "CORRECT",
-                    "imageText": "",
+                    "rightAnswer": "حيحص",
+                    "imageText": "ﺢﻴﺤﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 99,
-                    "rightAnswer": "AMNESTY",
-                    "imageText": "",
+                    "rightAnswer": "وفع",
+                    "imageText": "ﻮﻔﻋ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 100,
-                    "rightAnswer": "LOSER",
-                    "imageText": "",
+                    "rightAnswer": "رساخ",
+                    "imageText": "ﺮﺳﺎﺧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 101,
-                    "rightAnswer": "TAME",
-                    "imageText": "",
+                    "rightAnswer": "فيلأ",
+                    "imageText": "ﻒﻴﻟﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 102,
-                    "rightAnswer": "ICE",
-                    "imageText": "",
+                    "rightAnswer": "ديلج",
+                    "imageText": "ﺪﻴﻠﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 103,
-                    "rightAnswer": "negative",
-                    "imageText": "",
+                    "rightAnswer": "يبلس",
+                    "imageText": "ﻲﺒﻠﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 104,
-                    "rightAnswer": "short",
-                    "imageText": "",
+                    "rightAnswer": "ريصق",
+                    "imageText": "ﺮﻴﺼﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 105,
-                    "rightAnswer": "active",
-                    "imageText": "",
+                    "rightAnswer": "طيشن",
+                    "imageText": "ﻂﻴﺸﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 106,
-                    "rightAnswer": "send",
-                    "imageText": "",
+                    "rightAnswer": "لاسرا",
+                    "imageText": "ﻝﺎﺳﺭﺍ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 107,
-                    "rightAnswer": "brothers",
-                    "imageText": "",
+                    "rightAnswer": "ةوخإ",
+                    "imageText": "ﺓﻮﺧﺇ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 108,
-                    "rightAnswer": "Stupid",
-                    "imageText": "",
+                    "rightAnswer": "يبغ",
+                    "imageText": "ﻲﺒﻏ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 109,
-                    "rightAnswer": "SLOW",
-                    "imageText": "",
+                    "rightAnswer": "ءيطب",
+                    "imageText": "ﺀﻲﻄﺑ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 110,
-                    "rightAnswer": "wide",
-                    "imageText": "",
+                    "rightAnswer": "ضيرع",
+                    "imageText": "ﺾﻳﺮﻋ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 111,
-                    "rightAnswer": "write",
-                    "imageText": "",
+                    "rightAnswer": "بتكي",
+                    "imageText": "ﺐﺘﻜﻳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 112,
-                    "rightAnswer": "save",
-                    "imageText": "",
+                    "rightAnswer": "ظفح",
+                    "imageText": "ﻆﻔﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 113,
-                    "rightAnswer": "big",
-                    "imageText": "",
+                    "rightAnswer": "ريبك",
+                    "imageText": "ﺮﻴﺒﻛ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 114,
-                    "rightAnswer": "heavy",
-                    "imageText": "",
+                    "rightAnswer": "ليقث",
+                    "imageText": "ﻞﻴﻘﺛ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 115,
-                    "rightAnswer": "Village",
-                    "imageText": "",
+                    "rightAnswer": "ةيرق",
+                    "imageText": "ﺔﻳﺮﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 116,
-                    "rightAnswer": "vision",
-                    "imageText": "",
+                    "rightAnswer": "رصبم",
+                    "imageText": "ﺮﺼﺒﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 117,
-                    "rightAnswer": "female",
-                    "imageText": "",
+                    "rightAnswer": "ىثنأ",
+                    "imageText": "ﻰﺜﻧﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 118,
-                    "rightAnswer": "sink",
-                    "imageText": "",
+                    "rightAnswer": "قرغ",
+                    "imageText": "ﻕﺮﻏ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 119,
-                    "rightAnswer": "possible",
-                    "imageText": "",
+                    "rightAnswer": "نكمم",
+                    "imageText": "ﻦﻜﻤﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 120,
-                    "rightAnswer": "hate",
-                    "imageText": "",
+                    "rightAnswer": "هرك",
+                    "imageText": "ﻩﺮﻛ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 121,
-                    "rightAnswer": "past",
-                    "imageText": "",
+                    "rightAnswer": "يضام",
+                    "imageText": "ﻲﺿﺎﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 122,
-                    "rightAnswer": "awake",
-                    "imageText": "",
+                    "rightAnswer": "ظقي",
+                    "imageText": "ﻆﻘﻳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 123,
-                    "rightAnswer": "giant",
-                    "imageText": "",
+                    "rightAnswer": "قالمع",
+                    "imageText": "ﻕﻼﻤﻋ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 124,
-                    "rightAnswer": "land",
-                    "imageText": "",
+                    "rightAnswer": "ضرأ",
+                    "imageText": "ﺽﺭﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 125,
-                    "rightAnswer": "Peace",
-                    "imageText": "",
+                    "rightAnswer": "مالس",
+                    "imageText": "ﻡﻼﺳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 126,
-                    "rightAnswer": "minimum",
-                    "imageText": "",
+                    "rightAnswer": "ىندأ",
+                    "imageText": "ﻰﻧﺩﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 127,
-                    "rightAnswer": "Weak",
-                    "imageText": "",
+                    "rightAnswer": "فيعض",
+                    "imageText": "ﻒﻴﻌﺿ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 128,
-                    "rightAnswer": "wild",
-                    "imageText": "",
+                    "rightAnswer": "سرتفم",
+                    "imageText": "ﺱﺮﺘﻔﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 129,
-                    "rightAnswer": "Catch",
-                    "imageText": "",
+                    "rightAnswer": "طقتلا",
+                    "imageText": "ﻂﻘﺘﻟﺍ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 130,
-                    "rightAnswer": "Human",
-                    "imageText": "",
+                    "rightAnswer": "ناسنإ",
+                    "imageText": "ﻥﺎﺴﻧﺇ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 131,
-                    "rightAnswer": "healthy",
-                    "imageText": "",
+                    "rightAnswer": "يحص",
+                    "imageText": "ﻲﺤﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 132,
-                    "rightAnswer": "sour",
-                    "imageText": "",
+                    "rightAnswer": "ضماح",
+                    "imageText": "ﺾﻣﺎﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 133,
-                    "rightAnswer": "bloom",
-                    "imageText": "",
+                    "rightAnswer": "رضن",
+                    "imageText": "ﺮﻀﻧ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 134,
-                    "rightAnswer": "free",
-                    "imageText": "",
+                    "rightAnswer": "رح",
+                    "imageText": "ﺮﺣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 135,
-                    "rightAnswer": "lazy",
-                    "imageText": "",
+                    "rightAnswer": "لوسك",
+                    "imageText": "ﻝﻮﺴﻛ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 136,
-                    "rightAnswer": "learn",
-                    "imageText": "",
+                    "rightAnswer": "ملعتي",
+                    "imageText": "ﻢﻠﻌﺘﻳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 137,
-                    "rightAnswer": "hungry",
-                    "imageText": "",
+                    "rightAnswer": "عئاج",
+                    "imageText": "ﻊﺋﺎﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 138,
-                    "rightAnswer": "truth",
-                    "imageText": "",
+                    "rightAnswer": "قداص",
+                    "imageText": "ﻕﺩﺎﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 139,
-                    "rightAnswer": "new",
-                    "imageText": "",
+                    "rightAnswer": "ديدج",
+                    "imageText": "ﺪﻳﺪﺟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 140,
-                    "rightAnswer": "sun",
-                    "imageText": "",
+                    "rightAnswer": "سمش",
+                    "imageText": "ﺲﻤﺷ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 141,
-                    "rightAnswer": "low",
-                    "imageText": "",
+                    "rightAnswer": "ضفخنم",
+                    "imageText": "ﺾﻔﺨﻨﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 142,
-                    "rightAnswer": "build",
-                    "imageText": "",
+                    "rightAnswer": "ينبي",
+                    "imageText": "ﻲﻨﺒﻳ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 143,
-                    "rightAnswer": "ugly",
-                    "imageText": "",
+                    "rightAnswer": "حيبق",
+                    "imageText": "ﺢﻴﺒﻗ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 144,
-                    "rightAnswer": "decrease",
-                    "imageText": "",
+                    "rightAnswer": "دوعص",
+                    "imageText": "ﺩﻮﻌﺻ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 145,
-                    "rightAnswer": "horizontal",
-                    "imageText": "",
+                    "rightAnswer": "يقفأ",
+                    "imageText": "ﻲﻘﻓﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 146,
-                    "rightAnswer": "criminal",
-                    "imageText": "",
+                    "rightAnswer": "مرجم",
+                    "imageText": "ﻡﺮﺠﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 147,
-                    "rightAnswer": "hello",
-                    "imageText": "",
+                    "rightAnswer": "ءاقل",
+                    "imageText": "ﺀﺎﻘﻟ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 148,
-                    "rightAnswer": "erase",
-                    "imageText": "",
+                    "rightAnswer": "يحم",
+                    "imageText": "ﻲﺤﻣ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 149,
-                    "rightAnswer": "man",
-                    "imageText": "",
+                    "rightAnswer": "لجر",
+                    "imageText": "ﻞﺟﺭ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 },
                 {
                     "number": 150,
-                    "rightAnswer": "sisters",
-                    "imageText": "",
+                    "rightAnswer": "تاوخأ",
+                    "imageText": "ﺕﺍﻮﺧﺃ",
                     "imageDescription": "",
                     "wrongAnswers": [],
-                    "gameType": 0,
+                    "gameType": 4,
                     "cost": 10
                 }
             ]
@@ -1363,224 +1363,230 @@
     "gameItems": [
         {
             "key": 0,
-            "value": "play"
+            "value": "ﺐﻌﻟﺇ"
         },
         {
             "key": 1,
-            "value": "Info"
+            "value": "ﺕﺎﻣﻮﻠﻌﻣ"
         },
         {
             "key": 2,
-            "value": "quit"
+            "value": "ﺝﻭﺮﺧ"
         },
         {
             "key": 3,
-            "value": "back"
+            "value": "ﻉﻮﺟﺭ"
         },
         {
             "key": 4,
-            "value": "Get ready to solve some picture puzzles! Get stucked? Use different hints! Earn coins by completing tasks or by watching short AD! Have fun!"
+            "value": "ﺾﻌﺑ ﻞﺤﻟ ﺪﻌﺘﺳﺍ ﻡﺪﺨﺘﺳﺍ؟ﺖﻘﻠﻋ!ﺯﺎﻐﻟﻷﺍ ﺐﺴﻛﺍ!ﺔﻔﻠﺘﺨﻣ ﺕﺎﺤﻴﻤﻠﺗ ﻦﻣ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺩﻮﻘﻨﻟﺍ ﻡﺎﻬﻤﻟﺍ ﻝﺎﻤﻜﺘﺳﺍ ﻝﻼﺧ ﺓﺪﻫﺎﺸﻣ ﻖﻳﺮﻃ ﻦﻋﻭﺃ !ﻊﺘﻤﺘﺳﺇ!ﺓﺮﻴﺼﻗ ﻊﻃﺎﻘﻣ"
         },
         {
             "key": 5,
-            "value": "locked"
+            "value": "ﻖﻠﻐﻣ"
         },
         {
             "key": 6,
-            "value": "Reveal a letter"
+            "value": "ﻑﺮﺣ ﻦﻋ ﻒﺸﻜﻟﺍ"
         },
         {
             "key": 7,
-            "value": "Remove letters"
+            "value": "ﻑﻭﺮﺤﻟﺍ ﻑﺬﺣ"
         },
         {
             "key": 8,
-            "value": "Get an answer"
+            "value": "ﺔﺑﺎﺟﻹﺍ ﻰﻠﻋ ﻞﺼﺣﺇ"
         },
         {
             "key": 9,
-            "value": "Get coins"
+            "value": "ﺩﻮﻘﻧ ﺔﻓﺎﺿﺇ"
         },
         {
             "key": 10,
-            "value": "Watch AD"
+            "value": "ﻥﻼﻋﻹﺍ ﺪﻫﺎﺷ"
         },
         {
             "key": 11,
-            "value": "Buy for money"
+            "value": "ﺔﻴﻘﻴﻘﺣ ﺩﻮﻘﻨﺑ ﺮﺘﺷﺍ"
         },
         {
             "key": 12,
-            "value": "continue"
+            "value": "ﺭﺍﺮﻤﺘﺳﺍ"
         },
         {
             "key": 13,
-            "value": "main menu"
+            "value": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ"
         },
         {
             "key": 14,
-            "value": "Level complete!"
+            "value": "! ﺔﻠﺣﺮﻤﻟﺍ ﺖﻬﺘﻧﺍ"
         },
         {
             "key": 15,
-            "value": "If you liked the game, please rate it on Google Play!"
+            "value": "ﻰﻠﻋ ﺔﺒﻌﻠﻟﺍ ﻢﻴﻗ !ﺮﺠﺘﻤﻟﺍ"
         },
         {
             "key": 16,
-            "value": "rate"
+            "value": "ﻡّﻴﻗ"
         },
         {
             "key": 18,
-            "value": "later"
+            "value": "ًﺎﻘﺣﻻ"
         },
         {
             "key": 17,
-            "value": "never"
+            "value": "ًﺍﺪﺑﺃ"
         },
         {
             "key": 19,
-            "value": "Data collection consent"
+            "value": "ﺕﺎﻧﺎﻴﺒﻟﺍ ﻊﻤﺟ ﺔﻘﻓﺍﻮﻣ"
         },
         {
             "key": 20,
-            "value": "Personalized advertisements"
+            "value": "ﺔﻴﺼﺨﺷ ﺕﺎﻧﻼﻋﺇ"
         },
         {
             "key": 21,
-            "value": "Allow AD networks too use collected data and show personalized advertisements"
+            "value": "ﺔﺼﺼﺨﻤﻟﺍ ﺕﺎﻧﻼﻋﻹﺍ ﺭﺎﻬﻇﺇﻭ ﺎﻬﻌﻤﺟ ﻢﺗ ﻲﺘﻟﺍ ﺕﺎﻧﺎﻴﺒﻟﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺕﺎﻧﻼﻋﻹﺍ ﺕﺎﻜﺒﺸﻟ ﺡﺎﻤﺴﻟﺍ"
         },
         {
             "key": 22,
-            "value": "yes"
+            "value": "ﻢﻌﻧ"
         },
         {
             "key": 23,
-            "value": "no"
+            "value": "ﻻ"
         },
         {
             "key": 24,
-            "value": "Looks like you have a better progress!"
+            "value": "!ﻞﻀﻓﺃ ﻡﺪﻘﺗ ﻥﺃ ﻦﻜﻤﻳ"
         },
         {
             "key": 25,
-            "value": "Do you want to load it?"
+            "value": "؟ﻪﻠﻴﻤﺤﺗ ﺪﻳﺮﺗ ﻞﻫ"
         },
         {
             "key": 26,
-            "value": "Hello there! Just to let you know, we use your gameplay and device data with your consent to improve our game!"
+            "value": "، ﻚﻣﻼﻋﻹ ﻂﻘﻓ !ﺎﺒﺣﺮﻣ  ﺕﺎﻧﺎﻴﺑ ﻡﺪﺨﺘﺴﻧ ﻦﺤﻧ ﻚﺘﻘﻓﺍﻮﻤﺑ ﺯﺎﻬﺠﻟﺍو ﺐﻌﻠﻟﺍ !ﺎﻨﺘﺒﻌﻟ ﻦﻴﺴﺤﺘﻟ "
         },
         {
             "key": 27,
-            "value": "Do you want us to present you relevant advertising that fits your interests?"
+            "value": "ﻚﻟ ﻡﺪﻘﻧ ﻥﺃ ﺎﻨﻣ ﺪﻳﺮﺗ ﻞﻫ ﺔﻠﺻ ﺕﺍﺫ ﺕﺎﻧﻼﻋﺇ  ؟ﻚﺗﺎﻣﺎﻤﺘﻫﺍ ﺐﺳﺎﻨﺗ "
         },
         {
             "key": 28,
-            "value": "Confirm"
+            "value": "ﻖﻓﺍﻭﺃ"
         },
         {
             "key": 29,
-            "value": "Learn more"
+            "value": "ﺪﻳﺰﻤﻟﺍ"
         },
         {
             "key": 30,
-            "value": "Remove wrong answer"
+            "value": "ﺔﺌﻃﺎﺧ ﺔﺑﺎﺟﺇ ﻑﺬﺣ"
         },
         {
             "key": 31,
-            "value": "Remove two answers"
+            "value": "ﺄﻄﺧ ﻦﻴﺘﺑﺎﺟﺇ ﻑﺬﺣ"
         },
         {
             "key": 32,
-            "value": "Chance to mistake"
+            "value": "ﺄﻄﺨﻠﻟ ﺔﺻﺮﻓ"
         },
         {
             "key": 33,
-            "value": "Please, help me to complete the level!"
+            "value": "!ﻯﻮﺘﺴﻤﻟﺍ ﻝﺎﻤﻛﻹ ﻲﻧﺪﻋﺎﺳ"
         },
         {
             "key": 34,
-            "value": "Help from friends"
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻦﻣ ﺓﺪﻋﺎﺴﻣ"
         },
         {
             "key": 35,
-            "value": "Ask friends"
+            "value": "ﺀﺎﻗﺪﺻﻷﺍ ﻝﺄﺳﺇ"
         },
         {
             "key": 36,
-            "value": "Bet"
+            "value": "ﻦﻫﺍﺭ"
         },
         {
             "key": 37,
-            "value": "Use hints if you get stucked!"
+            "value": "ﻚﺘﻬﺟﺍﻭ ﺍﺫﺇ ﺕﺎﺤﻴﻤﻠﺗ ﻡﺪﺨﺘﺳﺍ !ﺔﻠﻜﺸﻣ"
         },
         {
             "key": 38,
-            "value": "Tap the letter to clear it. Swipe to clear all the letters."
+            "value": "ﻪﺤﺴﻤﻟ ﻑﺮﺤﻟﺍ ﻰﻠﻋ ﻂﻐﺿﺍ"
         },
         {
             "key": 39,
-            "value": "Scrape the film to reveal the image!"
+            "value": "!ﺓﺭﻮﺼﻟﺍ ﻦﻋ ﻒﺸﻜﻠﻟ ﻂﺸﻛﺃ"
         },
         {
             "key": 40,
-            "value": "Tap this to make the image more clear. Requires gold!"
+            "value": "!ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺍًﺣﻮﺿﻭ ﺮﺜﻛﺃ ﺓﺭﻮﺼﻟﺍ ﻞﻌﺠﻟ ﺍﺬﻫ ﻕﻮﻓ ﺮﻘﻧﺍ"
         },
         {
             "key": 41,
-            "value": "Tap the image to make it more clear. Requires gold!"
+            "value": "!ﺩﻮﻘﻧ ﻒﻠﻜﺗ ﺮﺜﻛﺃ ﺡﻮﺿﻮﻟ ﺮﻘﻧﺃ"
         },
         {
             "key": 42,
-            "value": "Tap this to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": "!ﺩﻮﻘﻧ ﺐﻠﻄﺘﻳ .ﺭﺎﻨﻟﺍ ﻕﻼﻃﻹ ﺔﻴﻧﺎﺜﻟﺍ ﺓﺮﻤﻟﺍ ﻲﻓ ﻂﻐﺿﺍ .ﺐﻳﻮﺼﺘﻟﺍ ﺀﺪﺒﻟ ﺍﺬﻫ ﻰﻠﻋ ﻂﻐﺿﺍ"
         },
         {
             "key": 43,
-            "value": "Tap the area to start aiming. Tap in second time to shoot. Requires gold!"
+            "value": ".ﻕﻼﻃﻺﻟ ﻢﺛ ﺐﻳﻮﺼﺘﻠﻟﺮﻘﻧﺃ !ﺩﻮﻘﻧ ﻒﻠﻜﺗ"
         },
         {
             "key": 44,
-            "value": "Tap to get usefull info about the task!"
+            "value": "!ﺕﺎﻣﻮﻠﻌﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺮﻘﻧﺍ"
         },
         {
             "key": 45,
-            "value": "How difficult this task is? Make a right bet!"
+            "value": "!ﺢﻴﺤﺻ ﻥﺎﻫﺮﺑ ﻢﻗ ؟ﺔﻤﻬﻤﻟﺍ ﻩﺬﻫ ﺔﺑﻮﻌﺻ ﻯﺪﻣ ﺎﻣ"
         },
         {
             "key": 46,
-            "value": "more games"
+            "value": "ﺏﺎﻌﻟﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ"
         },
         {
             "key": 47,
-            "value": "retry"
+            "value": "ﺔﻟﻭﺎﺤﻤﻟﺍ ﺪﻋﺃ"
         }
     ],
     "subCategories": [],
     "randomLetters": [
-        122,
-        120,
-        99,
-        118,
-        98,
-        110,
-        109,
-        97,
-        115,
-        100,
-        102,
-        103,
-        104,
-        106,
-        107,
-        108,
-        113,
-        119,
-        101,
-        114,
-        116,
-        121,
-        117,
-        105,
-        111,
-        112
+        1574,
+        1572,
+        1585,
+        1609,
+        1577,
+        1608,
+        1586,
+        1592,
+        1588,
+        1587,
+        1610,
+        1576,
+        1604,
+        1575,
+        1578,
+        1606,
+        1605,
+        1603,
+        1591,
+        1590,
+        1589,
+        1579,
+        1602,
+        1601,
+        1594,
+        1593,
+        1607,
+        1582,
+        1581,
+        1580,
+        1583,
+        1584
     ]
 }
